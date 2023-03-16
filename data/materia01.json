@@ -1,0 +1,45 @@
+{
+    "titulo": " Introducción a la computación",
+    "temas": [
+        {
+            "tema": "Introducción",
+            "recurso": [
+                {
+                    "nombre": "Video: Introducción",
+                    "icono": "Video",
+                    "id": "videoTem"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 1: Aspectos Generales",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Aspectos generales de la computadora”",
+                    "icono": "Video",
+                    "id": "videoTem"
+                },
+                {
+                    "nombre": "Videotema: “Elementos importantes de una computadora”",
+                    "icono": "Video",
+                    "id": "videoTem"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 2: Hardware",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Aspectos generales de la computadora”",
+                    "icono": "Video",
+                    "id": "videoTem"
+                },
+                {
+                    "nombre": "Videotema: “Elementos importantes de una computadora”",
+                    "icono": "Video",
+                    "id": "videoTem"
+                }
+            ]
+        }
+    ]
+}
