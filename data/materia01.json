@@ -4,41 +4,41 @@
         {
             "tema": "Introducción",
             "recurso": [
-                [
-                    "Video: Introducción",
-                    "Video",
-                    "videoTem"
-                ]
+                {
+                    "name": "Madame Uppercut01",
+                    "age": 39,
+                    "secretIdentity": "Jane Wilson"
+                }
             ]
         },
         {
             "tema": "Tema 1: Aspectos Generales",
             "recurso": [
-                [
-                    "Infografía: “Aspectos generales de la computadora”",
-                    "Video",
-                    "videoTem"
-                ],
-                [
-                    "Videotema: “Elementos importantes de una computadora”",
-                    "Video",
-                    "videoTem"
-                ]
+                {
+                    "name": "Madame Uppercut02",
+                    "age": 39,
+                    "secretIdentity": "Jane Wilson"
+                },
+                {
+                    "name": "Madame Uppercu03t",
+                    "age": 39,
+                    "secretIdentity": "Jane Wilson"
+                }
             ]
         },
         {
             "tema": "Tema 2: Hardware",
             "recurso": [
-                [
-                    "simulador: “desarrolo web”",
-                    "sim",
-                    "sim01"
-                ],
-                [
-                    "Videotema: “Elementos importantes de una computadora”",
-                    "Video",
-                    "videoTem"
-                ]
+                {
+                    "name": "Madame Uppercut04",
+                    "age": 39,
+                    "secretIdentity": "Jane Wilson"
+                },
+                {
+                    "name": "Madame Uppercut01",
+                    "age": 39,
+                    "secretIdentity": "Jane Wilson"
+                }
             ]
         }
     ]
