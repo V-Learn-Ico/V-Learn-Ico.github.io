@@ -1,73 +1,14 @@
 {
-    "clases": {
-        "titulo": "Clase 01",
-        "temas": [
-            {
-                "subtemas": "Introducción",
-                "recursos": [
-                    {
-                        "nombre": "pony en accion",
-                        "tipo": "video",
-                        "logo": "sdfadff",
-                        "id": "Gecko"
-                    }
-                ]
-            },
-
-            {
-                "subtemas": "bienvenida",
-                "recursos": [
-                    {
-                        "nombre": "pony en accion",
-                        "tipo": "video",
-                        "logo": "sdfadff",
-                        "id": "Gecko"
-                    },
-
-                    {
-                        "nombre": "pony en accion",
-                        "tipo": "video",
-                        "logo": "sdfadff",
-                        "id": "Gecko"
-                    }
-                ]
-            }
-        ]
-    },
-
-    "clases": {
-        "titulo": "Clase 002",
-        "temas": [
-            {
-                "subtemas": "Introducción002",
-                "recursos": [
-                    {
-                        "nombre": "pony en accion002",
-                        "tipo": "video",
-                        "logo": "sdfadff",
-                        "id": "Gecko"
-                    }
-                ]
-            },
-
-            {
-                "subtemas": "bienvenida002",
-                "recursos": [
-                    {
-                        "nombre": "pony en accion002",
-                        "tipo": "video",
-                        "logo": "sdfadff",
-                        "id": "Gecko"
-                    },
-
-                    {
-                        "nombre": "pony en accion",
-                        "tipo": "video",
-                        "logo": "sdfadff",
-                        "id": "Gecko"
-                    }
-                ]
-            }
-        ]
-    }
+    "props": [
+        "Introducción a la computación",
+        "Internet",
+        "Herramientas digitales",
+        "Correo electrónico",
+        "Herramientas multimedia y digitalización",
+        "Plataformas Educativas",
+        "Plataformas para reuniones",
+        "Redes Sociales",
+        "Aplicaciones móviles",
+        "Mantenimiento básico y acceso remoto"
+    ]
 }
