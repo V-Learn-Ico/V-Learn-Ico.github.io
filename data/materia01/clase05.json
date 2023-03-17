@@ -4,14 +4,14 @@
             "tema": "Introducción clase 5",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción",
+                    "nombre": "Video: Introducción clase5",
                     "icono": "fa-solid fa-video"
                 }
             ]
         },
         {
             "tema": "Tema 1: Aspectos Generales",
-            "recurso": [
+            "recurso": [    
                 {
                     "nombre": "Infografía: “Aspectos generales de la computadora”",
                     "icono": "fa-regular fa-images"
