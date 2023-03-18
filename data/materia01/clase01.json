@@ -1,10 +1,10 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 1",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase 1",
+                    "nombre": "Video: Introducción",
                     "icono": "fa-solid fa-video"
                 }
             ]
@@ -26,13 +26,92 @@
             "tema": "Tema 2: Hardware",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
+                    "nombre": "Infografía: “Partes de la computadora”",
                     "icono": "fa-regular fa-images"
                 },
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
+                    "nombre": "Infografía: “Funcionamiento de los botones del mouse”",
                     "icono": "fa-regular fa-images"
+                },
+                {
+                    "nombre": "Infografía: “Observar la parte frontal de un gabinete”",
+                    "icono": "fa-regular fa-images"
+                },
+                {
+                    "nombre": "Infografía: “Observar la parte trasera de un gabinete”",
+                    "icono": "fa-regular fa-images"
+                },
+                {
+                    "nombre": "Videotema: “Elementos de hardware”",
+                    "icono": "fa-solid fa-video"
                 }
+            ]
+        },
+        {
+            "tema": "Tema 3: Software",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Sistemas operativos”",
+                    "icono": "fa-regular fa-images"
+                },
+                {
+                    "nombre": "Videotema: “Software”",
+                    "icono": "fa-solid fa-video"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 4: Entorno de Windows 11 y funciones principales",
+            "recurso": [
+                {
+                    "nombre": "Interfaz interactiva: “Windows 11”",
+                    "icono": "fa-solid fa-laptop-code"
+                },
+                {
+                    "nombre": "Videotema:“Explorando Windows”",
+                    "icono": "fa-solid fa-video"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 5: Explorador de archivos",
+            "recurso": [
+                {
+                    "nombre": "Interfaz interactiva: “Explorador de archivos”",
+                    "icono": "fa-solid fa-laptop-code"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 6: Aplicaciones de Windows 11",
+            "recurso": [
+                {
+                    "nombre": "Videotema: “Aplicaciones de Windows 11”",
+                    "icono": "fa-solid fa-video"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 7: Configuraciones principales",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Tipos de cuenta de usuarios”",
+                    "icono": "fa-regular fa-images"
+                },
+                {
+                    "nombre": "Videotema: “Agregar cuenta de Microsoft en Windows 11”",
+                    "icono": "fa-solid fa-video"
+                }
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
+                {
+                    "nombre": "Mapa Mental: “Introducción a la computación”",
+                    "icono": "fa-solid fa-sitemap"
+                }
+                
             ]
         }
     ]
