@@ -5,7 +5,9 @@
             "recurso": [
                 {
                     "nombre": "Video: Introducción",
-                    "icono": "fa-solid fa-video"
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
                 }
             ]
         },
@@ -14,11 +16,15 @@
             "recurso": [
                 {
                     "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "icono": "fa-regular fa-images",
+                    "pag": "3",
+                    "id": "id02"
                 },
                 {
                     "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "icono": "fa-solid fa-video",
+                    "pag": "4",
+                    "id": "id04"
                 }
             ]
         },
@@ -27,23 +33,33 @@
             "recurso": [
                 {
                     "nombre": "Infografía: “Partes de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "icono": "fa-regular fa-images",
+                    "pag": "5",
+                    "id": "id05"
                 },
                 {
                     "nombre": "Infografía: “Funcionamiento de los botones del mouse”",
-                    "icono": "fa-regular fa-images"
+                    "icono": "fa-regular fa-images",
+                    "pag": "5",
+                    "id": "id06"
                 },
                 {
                     "nombre": "Infografía: “Observar la parte frontal de un gabinete”",
-                    "icono": "fa-regular fa-images"
+                    "icono": "fa-regular fa-images",
+                    "pag": "5",
+                    "id": "id07"
                 },
                 {
                     "nombre": "Infografía: “Observar la parte trasera de un gabinete”",
-                    "icono": "fa-regular fa-images"
+                    "icono": "fa-regular fa-images",
+                    "pag": "5",
+                    "id": "id08"
                 },
                 {
                     "nombre": "Videotema: “Elementos de hardware”",
-                    "icono": "fa-solid fa-video"
+                    "icono": "fa-solid fa-video",
+                    "pag": "7",
+                    "id": "id09"
                 }
             ]
         },
@@ -52,11 +68,15 @@
             "recurso": [
                 {
                     "nombre": "Infografía: “Sistemas operativos”",
-                    "icono": "fa-regular fa-images"
+                    "icono": "fa-regular fa-images",
+                    "pag": "8",
+                    "id": "id10"
                 },
                 {
                     "nombre": "Videotema: “Software”",
-                    "icono": "fa-solid fa-video"
+                    "icono": "fa-solid fa-video",
+                    "pag": "9",
+                    "id": "id11"
                 }
             ]
         },
@@ -65,11 +85,15 @@
             "recurso": [
                 {
                     "nombre": "Interfaz interactiva: “Windows 11”",
-                    "icono": "fa-solid fa-laptop-code"
+                    "icono": "fa-solid fa-laptop-code",
+                    "pag": "10",
+                    "id": "id12"
                 },
                 {
                     "nombre": "Videotema:“Explorando Windows”",
-                    "icono": "fa-solid fa-video"
+                    "icono": "fa-solid fa-video",
+                    "pag": "11",
+                    "id": "id13"
                 }
             ]
         },
@@ -78,7 +102,9 @@
             "recurso": [
                 {
                     "nombre": "Interfaz interactiva: “Explorador de archivos”",
-                    "icono": "fa-solid fa-laptop-code"
+                    "icono": "fa-solid fa-laptop-code",
+                    "pag": "13",
+                    "id": "id14"
                 }
             ]
         },
@@ -87,7 +113,9 @@
             "recurso": [
                 {
                     "nombre": "Videotema: “Aplicaciones de Windows 11”",
-                    "icono": "fa-solid fa-video"
+                    "icono": "fa-solid fa-video",
+                    "pag": "16",
+                    "id": "id15"
                 }
             ]
         },
@@ -96,11 +124,15 @@
             "recurso": [
                 {
                     "nombre": "Infografía: “Tipos de cuenta de usuarios”",
-                    "icono": "fa-regular fa-images"
+                    "icono": "fa-regular fa-images",
+                    "pag": "17",
+                    "id": "id16"
                 },
                 {
                     "nombre": "Videotema: “Agregar cuenta de Microsoft en Windows 11”",
-                    "icono": "fa-solid fa-video"
+                    "icono": "fa-solid fa-video",
+                    "pag": "18",
+                    "id": "id17"
                 }
             ]
         },
@@ -109,7 +141,9 @@
             "recurso": [
                 {
                     "nombre": "Mapa Mental: “Introducción a la computación”",
-                    "icono": "fa-solid fa-sitemap"
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "21",
+                    "id": "id18"
                 }
                 
             ]
