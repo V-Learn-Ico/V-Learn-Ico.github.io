@@ -1,37 +1,109 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 2",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase 2",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Video: Introducción",
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
                 }
             ]
         },
         {
-            "tema": "Tema 1: Aspectos Generales",
+            "tema": "Tema 1: ¿Qué es internet?",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “¿Qué es internet?”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "3",
+                    "id": "id02"
                 },
                 {
-                    "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Videotema: “Internet”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "4",
+                    "id": "id04"
                 }
             ]
         },
         {
-            "tema": "Tema 2: Hardware",
+            "tema": "Tema 2: Estructura de una URL",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “Partes que conforman una URL”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "5",
+                    "id": "id05"
                 },
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “URL”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "6",
+                    "id": "id06"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 3: Navegadores Web",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Ventajas y desventajas de los navegadores”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "7",
+                    "id": "id07"
+                },
+                {
+                    "nombre": "Interfaz Interactiva: “Identificar los elementos del navegador web”",
+                    "icono": "fa-solid fa-laptop-code",
+                    "pag": "7",
+                    "id": "id08"
+                },
+                {
+                    "nombre": "Videotema: “Navegadores”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "8",
+                    "id": "id09"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 4: Buscadores",
+            "recurso": [
+                {
+                    "nombre": "Videotema: “Buscadores”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "10",
+                    "id": "id10"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 5: Tipos de páginas",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Diferencias entre los sitios y las páginas web””",
+                    "icono": "fa-regular fa-images",
+                    "pag": "11",
+                    "id": "id11"
+                },
+                {
+                    "nombre": "Videotema: “Tipos de Páginas”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "12",
+                    "id": "id12"
+                }
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
+                {
+                    "nombre": "Mapa Mental: “Internet”",
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "15",
+                    "id": "id13"
                 }
             ]
         }
