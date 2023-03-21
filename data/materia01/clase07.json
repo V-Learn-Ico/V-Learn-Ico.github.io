@@ -1,37 +1,86 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 7",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase 7",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Video: Introducción",
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
+                } 
+            ]
+        },
+        {
+            "tema": "Tema 1: Zoom",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Pasos para conexión en ZOOM”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "3",
+                    "id": "id02"
+                },
+                {
+                    "nombre": "Infografía: “Configuraciones avanzadas”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "3",
+                    "id": "id03"
+                },
+                {
+                    "nombre": "Videotema: “Zoom”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "4",
+                    "id": "id04"
                 }
             ]
         },
         {
-            "tema": "Tema 1: Aspectos Generales",
+            "tema": "Tema 2: Skype",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “Características de Skype”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "5",
+                    "id": "id05"
                 },
                 {
-                    "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Videotema: “Skype”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "6",
+                    "id": "id06"
                 }
             ]
         },
         {
-            "tema": "Tema 2: Hardware",
+            "tema": "Tema 3: Google Meet",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
-                },
+                    "nombre": "Videotema: “Google Meet”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "8",
+                    "id": "id07"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 4: Microsoft Teams",
+            "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “Equipos y canales en Microsoft Teams”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "10",
+                    "id": "id08"
+                }
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
+                {
+                    "nombre": "Mapa Mental: “Plataformas para reuniones”",
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "12",
+                    "id": "id09"
                 }
             ]
         }

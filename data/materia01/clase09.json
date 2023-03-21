@@ -1,37 +1,121 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 9",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase 9",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Video: Introducción",
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
+                } 
+            ]
+        },
+        {
+            "tema": "Tema 2: Características principales de un celular",
+            "recurso": [
+                {
+                    "nombre": "Videotema: “Dispositivo Móvil”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "5",
+                    "id": "id02"
+                },
+                {
+                    "nombre": "Videotema: “Almacenamiento de dispositivos móviles”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "7",
+                    "id": "id03"
+                },
+                {
+                    "nombre": "Infografía: “Aspectos importantes sobre la cámara”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "8",
+                    "id": "id04"
                 }
             ]
         },
         {
-            "tema": "Tema 1: Aspectos Generales",
+            "tema": "Tema 3: ¿Qué es una tienda móvil?",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
-                },
-                {
-                    "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Videotema: “Instalar una app desde Play Store”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "10",
+                    "id": "id05"
                 }
             ]
         },
         {
-            "tema": "Tema 2: Hardware",
+            "tema": "Tema 5: Uso de widgets",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “¡Trabajemos con widgets!”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "13",
+                    "id": "id06"
                 },
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “Características de los Widget”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "14",
+                    "id": "id07"
+                },
+                {
+                    "nombre": "Infografía: “Características de las Aplicaciones”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "14",
+                    "id": "id08"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 6: Importancia de la seguridad de la información",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Consejos para mantener la Seguridad en móviles”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "15",
+                    "id": "id09"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 7: Tipos de Protección de un dispositivo",
+            "recurso": [
+                {
+                    "nombre": "Videotema: “Bloqueo con PIN”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "17",
+                    "id": "id10"
+                },
+                {
+                    "nombre": "Videotema: “Bloqueo con huella digital”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "19",
+                    "id": "id11"
+                },
+                {
+                    "nombre": "Videotema: “Bloquear tu móvil con patrón, PIN o Contraseña”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "21",
+                    "id": "id12"
+                },
+                {
+                    "nombre": "Infografía: “Seguridad en Móviles”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "22",
+                    "id": "id13"
+                }
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
+                {
+                    "nombre": "Mapa Mental: “Tecnología móvil”",
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "24",
+                    "id": "id14"
                 }
             ]
         }

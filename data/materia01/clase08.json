@@ -1,37 +1,58 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 8",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase 8",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Video: Introducción",
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
+                },
+                {
+                    "nombre": "Video: “Redes Sociales”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "3",
+                    "id": "id02"
                 }
             ]
         },
         {
-            "tema": "Tema 1: Aspectos Generales",
+            "tema": "Tema 2: Funcionalidades de Facebook",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “Grupos en Facebook”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "6",
+                    "id": "id03"
                 },
                 {
-                    "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Videotema: “¿Cómo crear un evento en Facebook?”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "8",
+                    "id": "id04"
                 }
             ]
         },
         {
-            "tema": "Tema 2: Hardware",
+            "tema": "Tema 4: Funcionalidades de Whatsapp",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
-                },
+                    "nombre": "Videotema: “Difusiones en Whatsapp”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "12",
+                    "id": "id05"
+                }
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Mapa Mental: “Redes sociales”",
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "15",
+                    "id": "id06"
                 }
             ]
         }
