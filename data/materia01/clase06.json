@@ -1,37 +1,75 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 6",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase 6",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Video: Introducción",
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
+                } 
+            ]
+        },
+        {
+            "tema": "Tema 1: Google Classroom",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Las bases de google Classroom”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "3",
+                    "id": "id02"
+                },
+                {
+                    "nombre": "Videotema: “Google Classroom para alumnos”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "4",
+                    "id": "id03"
                 }
             ]
         },
         {
-            "tema": "Tema 1: Aspectos Generales",
+            "tema": "Tema 2: Edmodo",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “Rasgos de lo que es Edmodo”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "5",
+                    "id": "id04"
                 },
                 {
-                    "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Videotema: “Cómo utilizar edmodo”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "6",
+                    "id": "id05"
                 }
             ]
         },
         {
-            "tema": "Tema 2: Hardware",
+            "tema": "Tema 3: Chamillo",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “Herramientas de chamillo”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "7",
+                    "id": "id06"
                 },
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “Chamillo para alumnos”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "8",
+                    "id": "id07"
+                }
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
+                {
+                    "nombre": "Mapa Mental: “Plataformas educativas”",
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "10",
+                    "id": "id08"
                 }
             ]
         }
