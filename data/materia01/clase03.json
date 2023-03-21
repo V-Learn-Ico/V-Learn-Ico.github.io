@@ -1,37 +1,103 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 3",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase 3",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Video: Introducción",
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
                 }
             ]
         },
         {
-            "tema": "Tema 1: Aspectos Generales",
+            "tema": "Tema 1: Corrigiendo la ortografía con Stilus",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
-                },
-                {
-                    "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Videotema: “Stilus”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "4",
+                    "id": "id02"
                 }
             ]
         },
         {
-            "tema": "Tema 2: Hardware",
+            "tema": "Tema 2: Contenidos interactivos con genially",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “Características del software genially”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "5",
+                    "id": "id03"
                 },
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Interfaz Interactiva: “Identificar el entorno de genially”",
+                    "icono": "fa-solid fa-laptop-code",
+                    "pag": "5",
+                    "id": "id04"
+                },
+                {
+                    "nombre": "Videotema: “Genially”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "6",
+                    "id": "id05"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 3: Infografías en easel.ly",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Utilidades didácticas”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "7",
+                    "id": "id06"
+                },
+                {
+                    "nombre": "Videotema: “Easelly”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "8",
+                    "id": "id07"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 4: Crear diagramas con Draw IO",
+            "recurso": [
+                {
+                    "nombre": "Videotema: “Draw IO”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "10",
+                    "id": "id08"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 5: Realizando investigaciones en google Scholar",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Google Scholar”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "11",
+                    "id": "id09"
+                },
+                {
+                    "nombre": "Videotema: “Google Scholar”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "12",
+                    "id": "id10"
+                }
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
+                {
+                    "nombre": "Mapa Mental: “Herramientas Digitales”",
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "15",
+                    "id": "id11"
                 }
             ]
         }
