@@ -1,37 +1,132 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 4",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase 4",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Video: Introducción",
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
+                },
+                {
+                    "nombre": "Videotema: “Correo Electrónico”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "4",
+                    "id": "id02"
+                },
+                {
+                    "nombre": "Infografía: “Estructura de una dirección de correo electrónico”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "5",
+                    "id": "id03"
+                },
+                {
+                    "nombre": "Videotema: “Estructura del Correo electrónico”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "6",
+                    "id": "id04"
                 }
             ]
         },
         {
-            "tema": "Tema 1: Aspectos Generales",
+            "tema": "Tema 1: Proveedores de correo más importantes",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
-                },
-                {
-                    "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Infografía: “Proveedores más utilizados”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "7",
+                    "id": "id05"
                 }
             ]
         },
         {
-            "tema": "Tema 2: Hardware",
+            "tema": "Tema 2: Crear cuenta de correo electrónico",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “¿Cómo crear una cuenta en Gmail?”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "9",
+                    "id": "id06"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 3: Mensajes y contactos",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Pasos para usar tu correo electrónico”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "11",
+                    "id": "id07"
                 },
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “Enviar un correo electrónico en Gmail”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "12",
+                    "id": "id08"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 5: Almacenamiento en la nube",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Diferentes tipos de almacenamiento”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "14",
+                    "id": "id09"
+                },
+                {
+                    "nombre": "Videotema: “Tipos de almacenamiento”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "15",
+                    "id": "id10"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 6: Google drive/One Drive/Dropbox",
+            "recurso": [
+                {
+                    "nombre": "Videotema: “Usando Google drive”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "17",
+                    "id": "id11"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 7: Compartir y colaborar",
+            "recurso": [
+                {
+                    "nombre": "Videotema: “Funciones principales en One drive”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "19",
+                    "id": "id12"
+                },
+                {
+                    "nombre": "Videotema: “Como utilizar dropbox”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "21",
+                    "id": "id13"
+                },
+                 {
+                    "nombre": "Infografía: “Servicios de almacenamiento en la nube”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "21",
+                    "id": "id014"
+                }
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
+                {
+                    "nombre": "Mapa Mental: “Correo electrónico”",
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "23",
+                    "id": "id15"
                 }
             ]
         }
