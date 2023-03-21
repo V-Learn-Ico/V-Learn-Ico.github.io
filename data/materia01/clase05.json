@@ -1,37 +1,104 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 5",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase5",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Video: Introducción",
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
+                },
+                {
+                    "nombre": "Videotema: “Herramientas multimedia”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "3",
+                    "id": "id02"
                 }
             ]
         },
         {
-            "tema": "Tema 1: Aspectos Generales",
-            "recurso": [    
+            "tema": "Tema 2: Photogramio y Photoshop Express",
+            "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “Editar una imagen en Photogramio”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "6",
+                    "id": "id03"
                 },
                 {
-                    "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Infografía: “Buenas tomas a tus trabajos escolares”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "7",
+                    "id": "id04"
+                },
+                {
+                    "nombre": "Infografía: “Como hacer fotos a tus tareas”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "7",
+                    "id": "id05"
+                },
+                {
+                    "nombre": "Videotema: “Tips para tomar fotografías a tus tareas”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "8",
+                    "id": "id06"
+                },
+                {
+                    "nombre": "Videotema: “Photoshop Express”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "10",
+                    "id": "id07"
                 }
             ]
         },
         {
-            "tema": "Tema 2: Hardware",
+            "tema": "Tema 4: Wevideo",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “Creando un video en wevideo”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "14",
+                    "id": "id08"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 5: Escaneo de documentos",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Los pros y cons de la digitalización de documentos”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "15",
+                    "id": "id09"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 6: Cam Scanner",
+            "recurso": [
+                {
+                    "nombre": "Videotema: “Camscann”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "17",
+                    "id": "id10"
                 },
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “Puntos importantes sobre el uso de CamScan”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "17",
+                    "id": "id11"
+                }        
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
+                {
+                    "nombre": "Mapa Mental: “Herramientas multimedia y digitalización”",
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "19",
+                    "id": "id12"
                 }
             ]
         }
