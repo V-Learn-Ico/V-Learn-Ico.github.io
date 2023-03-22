@@ -1,37 +1,109 @@
 {
     "temas": [
         {
-            "tema": "Introducción clase 10",
+            "tema": "Introducción",
             "recurso": [
                 {
-                    "nombre": "Video: Introducción clase 10",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Video: Introducción",
+                    "icono": "fa-solid fa-video",
+                    "pag": "2",
+                    "id": "id01"
                 }
             ]
         },
         {
-            "tema": "Tema 1: Aspectos Generales",
+            "tema": "Tema 1: Antivirus",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “El desconocimiento de los usuarios como principal causa de infecciones”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "4",
+                    "id": "id02"
                 },
                 {
-                    "nombre": "Videotema: “Elementos importantes de una computadora”",
-                    "icono": "fa-solid fa-video"
+                    "nombre": "Infografía: “Los mejores antivirus que existen en el mercado”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "4",
+                    "id": "id03"
                 }
             ]
         },
         {
-            "tema": "Tema 2: Hardware",
+            "tema": "Tema 2: Liberación de Espacio",
             "recurso": [
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Videotema: “Liberación de espacio”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "6",
+                    "id": "id04"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 3: Mejorar el rendimiento del equipo",
+            "recurso": [
+                {
+                    "nombre": "Videotema: “¿Cómo mejorar el rendimiento de una PC?”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "8",
+                    "id": "id05"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 4: Configuraciones de red",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Para ayudar a proteger mejor la red”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "9",
+                    "id": "id06"
                 },
                 {
-                    "nombre": "Infografía: “Aspectos generales de la computadora”",
-                    "icono": "fa-regular fa-images"
+                    "nombre": "Infografía: “Crear una contraseña segura en tu red”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "9",
+                    "id": "id07"
+                },
+                {
+                    "nombre": "Infografía: “Configuración de la red inalámbrica”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "9",
+                    "id": "id08"
+                },
+                {
+                    "nombre": "Infografía: “Tener buena señal de internet”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "9",
+                    "id": "id09"
+                },
+                {
+                    "nombre": "Videotema: “Cómo solucionar problemas de conexión a internet en Windows 11”",
+                    "icono": "fa-solid fa-video",
+                    "pag": "10",
+                    "id": "id10"
+                }
+            ]
+        },
+        {
+            "tema": "Tema 5: Guía para comprar el equipo ideal",
+            "recurso": [
+                {
+                    "nombre": "Infografía: “Tips para evitar comprar un mal equipo de cómputo”",
+                    "icono": "fa-regular fa-images",
+                    "pag": "11",
+                    "id": "id11"
+                }
+            ]
+        },
+        {
+            "tema": "Mapa Mental",
+            "recurso": [
+                {
+                    "nombre": "Mapa Mental: “Mantenimiento básico y acceso remoto”",
+                    "icono": "fa-solid fa-sitemap",
+                    "pag": "13",
+                    "id": "id12"
                 }
             ]
         }
